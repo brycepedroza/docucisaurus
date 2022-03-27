@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# About the Playbook
 
-Welcome to the CISA bug pounty program playbook! Built on markdown files, 
+Welcome to the CISA bug pounty program playbook! Built with Docusaurus, the playbook leverages markdown files to take the complexity out of building a web application. Instead, CISA can focus on content that can be quickly translated into a single page web app built on React. 
 
-## Getting Started
+## How to Contribute to the Playbook.
 
 Get started by **creating a new site**.
 
